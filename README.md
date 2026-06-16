@@ -61,4 +61,4 @@ The final Logistic Regression model was evaluated on the unseen test set, yieldi
 The detailed SAS output, including all generated statistical tables and visualizations, is available in the attached HTML file:
 **`Results_ E-Commerce churn THE VERY FINAL ONE.sas.html`**
 
-*(To view the HTML report directly on GitHub, you can use [HTML Preview](https://htmlpreview.github.io/) by pasting the raw GitHub link of the HTML file, or host it via GitHub Pages).*
+*([View Detailed SAS Results Report](https://htmlpreview.github.io/?https://github.com/mhmdshikhon1/E-Commerce-Customer-Churn-Prediction-SAS-/blob/main/Results_%20E-Commerce%20churn%20THE%20VERY%20FINAL%20ONE.sas.html)).*
